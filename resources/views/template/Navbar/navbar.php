@@ -3,6 +3,8 @@
         <a href="#">
             <img src="resources/assets/logo.jpg" alt="logo" />
         </a>
+        <h1><a href="#">Leginary Guild</a></h1>
+       
     </div>
       <ul>
         <li>

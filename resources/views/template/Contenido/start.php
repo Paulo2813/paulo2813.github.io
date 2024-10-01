@@ -1,7 +1,7 @@
 <?php
 session_start();
 ?>
-<div class="clones">
+<div class="clones">    
     <div class="containerStart">
         <h1 class="h1Start">Registration</h1>
         <form action="acciones/procesar.php" method="POST">
@@ -64,3 +64,4 @@ session_start();
         </div>
     </div> 
 </div>
+

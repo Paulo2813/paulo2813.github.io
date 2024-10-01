@@ -121,3 +121,12 @@ nav ul li a:hover {
     display: none;
   }
 }
+
+h1 a {
+  color: #0dd3fd;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+
+

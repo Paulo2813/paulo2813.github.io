@@ -17,7 +17,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 
 
-    $resultado = "Stat: $stat, N° Clone: $number, Valor Base: $baseValue, Valor Clone: $cloneValue, Valor Calculo: $rpta, $mensaje";
+    $resultado = "
+    <strong>Stat:</strong> $stat, <strong>N° de clon:</strong> $number,<br>
+    <strong>Valor base:</strong> $baseValue, <strong>Valor de clone:</strong> $cloneValue<br>
+";
     
     
     session_start();
